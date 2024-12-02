@@ -22,7 +22,7 @@ Welcome to my Python learning repository! This repository contains my journey of
 ## 🛠 How to Use This Repository
 
 1. #Clone the repository:
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://https://github.com/NawazishFaraz/learn_python_with_me
 
 2.# Navigate to the project folder:
 cd YourRepository
@@ -47,7 +47,3 @@ This repository is a personal learning space, but feel free to share feedback, i
 This project is open-source and available under the MIT License. Feel free to use it as a reference for your own learning journey.
 
 Happy Coding! 😊
-
-### How to Use:
-- Replace `NawazishFaraz` and `Yourrepo` with your GitHub username and repository name.
-- Adjust the topics in the "Chapters" and "Topics Covered So Far" sections based on your current progress.
