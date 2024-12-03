@@ -35,12 +35,12 @@ Open the files and explore the Python scripts for each concept.
  Object-Oriented Programming
  Advanced Topics
  
-🌟 Goals
+#🌟 Goals
 Gain a solid understanding of Python fundamentals.
 Practice coding exercises for better retention.
 Apply Python skills to real-world projects.
 
-🤝 Contributions
+#🤝 Contributions
 This repository is a personal learning space, but feel free to share feedback, ideas, or additional resources. Suggestions for improvement are always welcome!
 
 📝 License
