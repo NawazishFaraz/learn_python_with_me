@@ -8,3 +8,4 @@ print(type(d))
 
 s = {1, 5, 3, 7, 8, 7}
 print(s)
+# if you want print in order then use list.
